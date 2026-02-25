@@ -1,0 +1,9 @@
+{
+  "tours_list": [
+    { "name": "Luxor Day Trip", "price_eur": 110, "guide": "Certified Egyptologist" },
+    { "name": "Hamata Islands", "price_eur": 57, "days": ["Sunday", "Tuesday", "Thursday"] },
+    { "name": "Super Safari", "price_eur": 37, "included": ["BBQ", "Quad", "Camel"] }
+  ],
+  "languages": ["ar", "en", "it", "de", "pl", "cs"],
+  "offer": "10% Discount active"
+}
